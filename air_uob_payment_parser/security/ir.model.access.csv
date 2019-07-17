@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_bank_file_attachment_account_invoice,bank_file_attachment_account_invoice,model_bank_file_attachment,account.group_account_invoice,1,1,1,0
